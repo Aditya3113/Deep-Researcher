@@ -111,7 +111,7 @@ Edit `config/settings.py` or set environment variables in `.env`:
 
 ## Cost note
 
-Each `WebSearchTool` call costs **~$0.025** on OpenAI (as of 2025).  
+Each `WebSearchTool` call costs **~$0.025** on OpenAI.  
 With `HOW_MANY_SEARCHES = 3`, a full pipeline run costs roughly **$0.08–$0.12**.
 
 ---
